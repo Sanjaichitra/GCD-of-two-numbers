@@ -26,7 +26,6 @@ Use for() and if() loop to find the GCD of the two numbers.
  # Developed by:SANJAI S 
  # Register Number:23013614
 
-~~~
 
 
 ## Output:
