@@ -25,8 +25,14 @@ Use for() and if() loop to find the GCD of the two numbers.
  # Program to find the GCD of number using functions
  # Developed by:SANJAI S 
  # Register Number:23013614
+ ~~~
+import math
+def gcd():
+    a,b=int(input()),int(input())
+    c=math.gcd(a,b)
+    print("GCD of two numbers is:",c)
 
-
+~~~
 
 ## Output:
 ![Screenshot 2023-12-19 113404](https://github.com/Sanjaichitra/GCD-of-two-numbers/assets/144870518/16feb8ee-4744-4e8c-8396-bcc8a4362978)
